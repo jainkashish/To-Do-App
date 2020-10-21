@@ -15,7 +15,7 @@ The user can create a To-Do List. In which he/she can :
 
 ## FUNCTIONALITIES
 ### Creating a To-Do List
-![WhatsApp Image 2020-10-21 at 8 39 17 PM](https://user-images.githubusercontent.com/62174148/96739595-9432f600-13dd-11eb-9e8a-7e2e588c4a01.jpeg)
+![WhatsApp Image 2020-10-21 at 9 21 09 PM](https://user-images.githubusercontent.com/62174148/96745127-6b156400-13e3-11eb-95df-3644585f5736.jpeg)
 
 ### List Created
 ![WhatsApp Image 2020-10-21 at 8 47 02 PM](https://user-images.githubusercontent.com/62174148/96740720-b8430700-13de-11eb-81cc-14ffe31ac775.jpeg)
