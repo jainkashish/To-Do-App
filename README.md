@@ -28,6 +28,7 @@ The user can create a To-Do List. In which he/she can :
 
 ### Delete Task : 
 Submit Button will delete the task
+
 Cancel will return back without making any changes.
 ![WhatsApp Image 2020-10-21 at 8 50 45 PM](https://user-images.githubusercontent.com/62174148/96741114-1cfe6180-13df-11eb-9c7c-d26721b50bf5.jpeg)
 
